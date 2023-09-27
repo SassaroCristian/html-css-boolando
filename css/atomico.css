@@ -56,3 +56,40 @@
   .rotate {
     transform: rotate(-180deg)
   }
+
+#heart-icon1 {
+    width :50px;
+    height: 50px;
+    top: 150px;
+    left: 430px;
+}
+
+#heart-icon2 {
+  width :50px;
+  height: 50px;
+  top: 150px;
+  left: 793px;
+}
+
+#heart-icon3 {
+  width :50px;
+  height: 50px;
+  top: 150px;
+  left: 1156px;
+}
+
+#sales {
+    width: 55px;
+    height: 30px;
+    top:550px;
+    color: white;
+}
+
+#green-tag1 {
+    width: 105px;
+    height: 30px;
+    top:550px;
+    left: 210px;
+    color: white;
+}
+
