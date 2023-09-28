@@ -45,6 +45,10 @@
   align-items: center;
 }
 
+.flex-row-reversed {
+  flex-direction: row-reverse;
+}
+
 /*** LARGHEZZE ***/
 /* Classi per impostare larghezze percentuali */
 .w-20 {
@@ -278,16 +282,10 @@
   background-color: none;
 }
 
-/* .custom-pos1 {
-    top:550px;
-    left: 210px;
+#text-red {
+  color: red;
 }
 
-.custom-pos2 {
-    top:650px;
-    left: 210px;
+#text-line {
+  text-decoration: line-through;
 }
-
-.custom-pos3 {
-
-} */
