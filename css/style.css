@@ -67,10 +67,6 @@ footer {
 }
 
 
-#img:hover {
-    background-image:url() ;
-}
-
 .product-image {
     transition: opacity 0.3s ease-in-out;
 }
@@ -80,11 +76,20 @@ footer {
     width: 330px;
 }
 
+.img-container{
+    width: 330px;
+}
+
 .img-container:hover .product-image {
     opacity: 0;
     display: none;
+
 }
 
 .img-container:hover .product-image-hover {
-    display: block;
+    display: inline-block;
+}
+
+.heart:hover {
+    color: red;
 }
